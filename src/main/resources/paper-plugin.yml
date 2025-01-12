@@ -1,5 +1,7 @@
 name: cc-addresslimit
-version: '1.0.0'
+version: '1.0'
 main: net.cc.addresslimit.AddressLimitPlugin
-api-version: '1.21'
+description: WIP
+api-version: '1.21.4'
+load: STARTUP
 authors: [ SpektrSoyuz ]
